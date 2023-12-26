@@ -12,3 +12,4 @@ The following codes are included:
 9. Simulated annealing in artificial intelligence
 10. Alpha beta pruning in artificial intelligence
 11. Map colouring problem in applications of constraint satisfaction problem using backtracking in artificial intelligence
+12. House allocation problem in applications of constraint satisfaction problem in artificial intelligence
