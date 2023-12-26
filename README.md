@@ -10,3 +10,4 @@ The following codes are included:
 7. A* search in artificial intelligence
 8. Genetic algorithm in artificial intelligence
 9. Simulated annealing in artificial intelligence
+10. Alpha beta pruning in artificial intelligence
