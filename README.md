@@ -15,3 +15,5 @@ The following codes are included:
 12. House allocation problem in applications of constraint satisfaction problem in artificial intelligence
 13. Z test in data science
 14. T test in data science
+15. 1 way ANOVA in data science
+16. 2 way ANOVA in data science
