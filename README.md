@@ -4,4 +4,4 @@ The following codes are included:
 1. Breadth first search in artificial intelligence
 2. Depth first search in artificial intelligence
 3. Depth limited search in artificial intelligence
-4. 
+4. Iterative deepening search in artificial intelligence
