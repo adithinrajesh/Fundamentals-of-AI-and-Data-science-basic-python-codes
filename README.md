@@ -7,3 +7,4 @@ The following codes are included:
 4. Iterative deepening search in artificial intelligence
 5. Uniform cost search in artificial intelligence
 6. Greedy best first search in artificial intelligence
+7. A* search in artificial intelligence
