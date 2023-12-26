@@ -17,3 +17,7 @@ The following codes are included:
 14. T test in data science
 15. 1 way ANOVA in data science
 16. 2 way ANOVA in data science
+17. Linear regression in data science
+18. Logistic regression in data science
+
+Additionally, a basic code for visualisation of graphs used in the search strategy implementation is also included.
