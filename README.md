@@ -14,3 +14,4 @@ The following codes are included:
 11. Map colouring problem in applications of constraint satisfaction problem using backtracking in artificial intelligence
 12. House allocation problem in applications of constraint satisfaction problem in artificial intelligence
 13. Z test in data science
+14. T test in data science
