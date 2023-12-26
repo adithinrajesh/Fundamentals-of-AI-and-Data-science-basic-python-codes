@@ -6,3 +6,4 @@ The following codes are included:
 3. Depth limited search in artificial intelligence
 4. Iterative deepening search in artificial intelligence
 5. Uniform cost search in artificial intelligence
+6. Greedy best first search in artificial intelligence
