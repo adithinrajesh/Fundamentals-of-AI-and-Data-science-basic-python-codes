@@ -11,3 +11,4 @@ The following codes are included:
 8. Genetic algorithm in artificial intelligence
 9. Simulated annealing in artificial intelligence
 10. Alpha beta pruning in artificial intelligence
+11. Map colouring problem in applications of constraint satisfaction problem using backtracking in artificial intelligence
